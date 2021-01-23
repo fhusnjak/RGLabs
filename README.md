@@ -11,5 +11,5 @@ Laboratory exercises for Computer graphics course.
 ![Particles Demo](Resources/particles.gif)<br/>
 
 ### Lab 3<br/>
-#### Used my own vulkan engine to implement water rendering
+#### Used my own vulkan engine to implement water rendering using dudv map
 ![Water Demo](Resources/water.gif)<br/>
